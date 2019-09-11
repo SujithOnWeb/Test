@@ -8,6 +8,7 @@ namespace MyLearning.Controllers
 {
     public class HomeController : Controller
     {
+        //Test
         public ActionResult Index()
         {
             return View();
